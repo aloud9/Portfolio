@@ -1,0 +1,108 @@
+#title {
+  background-color: #E4F9F5;
+  padding: 3% 15% 7% 15%;
+}
+
+h1 {
+  font-size: 5.625em;
+  color: #66BFBF;
+  font-family: 'Sacramento', cursive;
+  text-align: center;
+}
+
+h2 {
+  font-size: 2.5rem;
+  color: #66BFBF;
+  font-weight: normal;
+  text-align: center;
+}
+
+/* navigation */
+.navbar {
+  padding: 0 0 4.5rem;
+  margin-left: 70px;
+}
+
+.nav-item {
+  padding: 0 18px;
+}
+
+.nav-link {
+  font-size: 1.2rem;
+  font-weight: lighter;
+  color: grey;
+}
+
+.navbar-brand {
+  font-size: 2.5rem;
+}
+
+.collapse {
+  margin-right: 70px;
+}
+
+/* title head */
+.title-heading {
+  margin-top: 80px;
+  margin-bottom: 100px;
+}
+
+/* about me */
+#about-me {
+  padding: 7% 15%;
+}
+
+.Me {
+  border-radius: 100%;
+}
+
+.right-col {
+  text-align: center;
+}
+
+.btn {
+  align-self: auto;
+}
+.resume{
+  text-align:center;
+}
+
+/* skills */
+#skills {
+  padding: 7% 15%;
+  background-color: #E4F9F5;
+  text-align: center;
+}
+
+.skill-img{
+  width: 30%;
+  border-radius: 100%;
+}
+.cert{
+  width: 15%;
+  border-radius: 100%;
+}
+/* Projects */
+#Projects{
+  padding: 7% 15%;
+  text-align: center;
+}
+.h2proj{
+  margin-bottom:30px;
+}
+.rowproj{
+  margin-bottom: 50px;
+}
+
+
+
+.projimg{
+  width: 100%;
+  height: 50%;
+}
+.dog{
+  width: 15%;
+}
+.number{
+  margin-bottom: 15px;
+}
